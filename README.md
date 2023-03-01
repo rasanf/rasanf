@@ -9,7 +9,7 @@
 
 <br>
 
-## ⚡ &nbsp;Tecnologias
+## ⚡ &nbsp;Technologies
 
 <h4>These are some of the technologies and tools that I'm studying:</h4>
 <div style="display: inline_block"><br>
