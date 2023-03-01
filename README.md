@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hey, eu sou a Raissa!</h1>
+<h1 align="left"><img src="https://github.com/Liliane-Zechel/kaueMarques/raw/master/hi.gif" width="30px"> Hey, I'm Raissa!</h1>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 ## ⚡ &nbsp;Tecnologias
 
-<h4>Algumas das tecnologias e ferramentas que venho estudando e aprimorando:</h4>
+<h4>These are some of the technologies and tools that I'm studying:</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,20 +22,21 @@
 
 <br>
 
-<h4>Próximas tecnologias a serem aprendidas:</h4>
+<h4>Next technologies to be learned:</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Raissa-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Raissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img align="center" alt="Raissa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
 </div>
 
 <br>
 
-## 📊 &nbsp;Meu GitHub
+## 📊 &nbsp;My GitHub
 <br>
 
 <p align="left">
-<img width="490em" src="https://github-readme-stats.vercel.app/api?username=rasanf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="raissa's stats"/>
-<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanf&layout=compact&theme=tokyonight&langs_count=6" alt="raissa's most used languages"/>
+<img width="470em" height="200em" src="https://github-readme-stats.vercel.app/api?username=rasanf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="raissa's stats"/>
+<img width="390em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanf&layout=compact&theme=tokyonight&langs_count=6" alt="raissa's most used languages"/>
 </p>
 
 <br>
